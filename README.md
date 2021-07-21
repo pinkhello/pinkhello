@@ -12,7 +12,7 @@ Hi there 👷 I'm pinkhello  ![views](https://views.whatilearened.today/views/gi
 ⚡ Technologies
 
 Framework   
-![Vue](https://img.shields.io/badge/-Vue.js-000000?style=flat-square&logo=vue-dot-js)
+![Vue](https://img.shields.io/badge/-Vue-000000?style=flat-square&logo=vue-dot-js)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=Spring)
 ![SpringBoot](https://img.shields.io/badge/-springboot-black?style=flat-square&logo=springboot)
 ![Dubbo](https://img.shields.io/badge/-Dubbo-black?style=flat-square&logo=Dubbo)
