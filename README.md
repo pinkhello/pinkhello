@@ -3,7 +3,8 @@ Hi there 👷 I'm pinkhello  ![views](https://views.whatilearened.today/views/gi
 - 📖 Mainly ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java) ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 - 🍎 Also Code in ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript) ![Kotlin](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin)
 - 📮 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-pinkhello-black?style=plastic&logo=Gmail&logoColor=white&link=mailto:lee123lee123@163.com)](mailto:lee123lee123@163.com)
-[![Gmail Badge](https://img.shields.io/badge/-pinkhello-black?style=plastic&logo=blog&logoColor=blue&link=https://pinkhello.me)](https://pinkhello.me). Wechat: chess_1
+[![Bloglovin](https://img.shields.io/badge/-pinkhello-black?style=plastic&logo=Bloglovin&logoColor=blue&link=https://pinkhello.me)](https://pinkhello.me)
+![WeChat](https://img.shields.io/badge/-chess_1-000000?style=flat-square&logo=WeChat)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=vue&hide_border=true&line_height=20&count_private=true)
@@ -12,7 +13,8 @@ Hi there 👷 I'm pinkhello  ![views](https://views.whatilearened.today/views/gi
 ⚡ Technologies
 
 Framework   
-![Vue](https://img.shields.io/badge/-Vue-000000?style=flat-square&logo=vue-dot-js)
+
+![Vue](https://img.shields.io/badge/-Vue.js-000000?style=flat-square&logo=vuedotjs)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=Spring)
 ![SpringBoot](https://img.shields.io/badge/-springboot-black?style=flat-square&logo=springboot)
 ![Dubbo](https://img.shields.io/badge/-Dubbo-black?style=flat-square&logo=Dubbo)
@@ -35,6 +37,9 @@ Tools
 ![Maven](https://img.shields.io/badge/-Maven-black?style=flat-square&logo=apache-maven)
 ![Gradle](https://img.shields.io/badge/-Gradle-black?style=flat-square&logo=gradle)
 ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=apache-airflow)
+![Presto](https://img.shields.io/badge/-Presto-black?style=flat-square&logo=Presto)
+
+
 
 Others  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
@@ -44,6 +49,9 @@ Others
 ![Deepin](https://img.shields.io/badge/-Deepin-007CFF?style=flat-square&logo=deepin)
 ![Centos](https://img.shields.io/badge/-Centos-262577?style=flat-square&logo=Centos)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions)
+
 
 🚀 2021 OKR 进度
 | 动作 | 进度 | 目标 | 缺陷 | 其他 |
