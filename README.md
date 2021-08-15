@@ -3,7 +3,7 @@ Hi there 👷 I'm pinkhello  ![views](https://views.whatilearened.today/views/gi
 - 📖 Mainly ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java) ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 - 🍎 Also Code in ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript) ![Kotlin](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin)
 - 📮 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-pinkhello-black?style=plastic&logo=Gmail&logoColor=white&link=mailto:lee123lee123@163.com)](mailto:lee123lee123@163.com)
-[![Bloglovin](https://img.shields.io/badge/-pinkhello-black?style=plastic&logo=Bloglovin&logoColor=blue&link=https://pinkhello.me)](https://pinkhello.me)
+[![Bloglovin](https://img.shields.io/badge/-pinkhello-black?style=plastic&logo=Bloglovin&logoColor=blue&link=https://pinkhello.github.io)](https://pinkhello.github.io)
 ![WeChat](https://img.shields.io/badge/-chess_1-000000?style=flat-square&logo=WeChat)
 
 
