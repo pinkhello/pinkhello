@@ -1,7 +1,7 @@
 Hi there 👷 I'm pinkhello  ![views](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg)
 - 💻 I'm a BackEnd Developer
-- 📖 Mainly ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java) ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
-- 🍎 Also Code in ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript) ![Kotlin](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin)
+- 📖 Mainly ![GoLang](https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=Go) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java) 
+- 🍎 Also Code in ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript) 
 - 📮 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-pinkhello-black?style=plastic&logo=Gmail&logoColor=white&link=mailto:lee123lee123@163.com)](mailto:lee123lee123@163.com)
 [![Bloglovin](https://img.shields.io/badge/-pinkhello-black?style=plastic&logo=Bloglovin&logoColor=blue&link=https://pinkhello.github.io)](https://pinkhello.github.io)
 ![WeChat](https://img.shields.io/badge/-chess_1-000000?style=flat-square&logo=WeChat)
@@ -13,10 +13,10 @@ Hi there 👷 I'm pinkhello  ![views](https://views.whatilearened.today/views/gi
 ⚡ Technologies
 
 Framework   
-
 ![Vue](https://img.shields.io/badge/-Vue.js-000000?style=flat-square&logo=vuedotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=Spring)
-![SpringBoot](https://img.shields.io/badge/-springboot-black?style=flat-square&logo=springboot)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot)
 ![Dubbo](https://img.shields.io/badge/-Dubbo-black?style=flat-square&logo=Dubbo)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
 ![Echo](https://img.shields.io/badge/-Echo-black?style=flat-square&logo=Echo)
@@ -33,13 +33,10 @@ Tools
 ![RocketMQ](https://img.shields.io/badge/-RocketMQ-black?style=flat-square&logo=apache-rocketmq)
 ![Nsq](https://img.shields.io/badge/-Nsq-black?style=flat-square&logo=Nsq)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=RabbitMQ)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Maven](https://img.shields.io/badge/-Maven-black?style=flat-square&logo=apache-maven)
 ![Gradle](https://img.shields.io/badge/-Gradle-black?style=flat-square&logo=gradle)
 ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=apache-airflow)
 ![Presto](https://img.shields.io/badge/-Presto-black?style=flat-square&logo=Presto)
-
-
 
 Others  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
@@ -48,7 +45,6 @@ Others
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![Deepin](https://img.shields.io/badge/-Deepin-007CFF?style=flat-square&logo=deepin)
 ![Centos](https://img.shields.io/badge/-Centos-262577?style=flat-square&logo=Centos)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions)
 
