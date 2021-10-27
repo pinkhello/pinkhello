@@ -5,7 +5,6 @@ Hi there 👷 I'm pinkhello  ![views](https://views.whatilearened.today/views/gi
 - 📮 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-pinkhello-black?style=plastic&logo=Gmail&logoColor=white&link=mailto:lee123lee123@163.com)](mailto:lee123lee123@163.com)
 [![Bloglovin](https://img.shields.io/badge/-pinkhello-black?style=plastic&logo=Bloglovin&logoColor=blue&link=https://pinkhello.github.io)](https://pinkhello.github.io)
 ![WeChat](https://img.shields.io/badge/-chess_1-000000?style=flat-square&logo=WeChat)
-- 爱我中华, 强我中华, 吾辈当自强!
 
 
 ![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=vue&hide_border=true&line_height=20&count_private=true)
