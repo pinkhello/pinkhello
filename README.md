@@ -50,7 +50,7 @@ Others
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions)
 
 
-🚀 2021 OKR 进度
+🚀 2021-2022 OKR 进度
 | 动作 | 进度 | 目标 | 缺陷 | 其他 |
 | :---- | :---- | :---- | :---- | :---- |
 | 👯 Go服务开发脚手架 | done | [go-starter](https://github.com/pinkhello/go-starter) | ut | - |
