@@ -6,7 +6,9 @@ Hi there 👷 I'm pinkhello
 - 📮 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-pinkhello-black?style=plastic&logo=Gmail&logoColor=white&link=mailto:lee123lee123@163.com)](mailto:lee123lee123@163.com)
 [![Bloglovin](https://img.shields.io/badge/-pinkhello-black?style=plastic&logo=Bloglovin&logoColor=blue&link=https://pinkhello.github.io)](https://pinkhello.github.io)
 ![WeChat](https://img.shields.io/badge/-chess_1-000000?style=flat-square&logo=WeChat)
-
+- 🚌 Base64 
+  - 微信: `echo Y2hlc3NfMQo= | base64 -d`
+  - 邮箱: `echo bGVlMTIzbGVlMTIzQDE2My5jb20K | base64 -d`
 
 ![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=vue&hide_border=true&line_height=20&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&layout=compact&hide_border=true&hide=html,vim&count_private=true)
