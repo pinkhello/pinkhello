@@ -3,12 +3,8 @@ Hi there 👷 I'm pinkhello
 - 💻 I'm a BackEnd Developer
 - 📖 Mainly ![GoLang](https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=Go) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java) 
 - 🍎 Also Code in ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript) 
-- 📮 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-pinkhello-black?style=plastic&logo=Gmail&logoColor=white&link=mailto:lee123lee123@163.com)](mailto:lee123lee123@163.com)
-[![Bloglovin](https://img.shields.io/badge/-pinkhello-black?style=plastic&logo=Bloglovin&logoColor=blue&link=https://pinkhello.github.io)](https://pinkhello.github.io)
-![WeChat](https://img.shields.io/badge/-chess_1-000000?style=flat-square&logo=WeChat)
-- 🚌 Base64 
-  - 微信: `echo Y2hlc3NfMQo= | base64 -d`
-  - 邮箱: `echo bGVlMTIzbGVlMTIzQDE2My5jb20K | base64 -d`
+- 📮 How to reach me 
+  - Email: `echo bGVlMTIzbGVlMTIzQDE2My5jb20K | base64 -d`
   - Telegram: `echo QHBpbmtfaGVsbG9fMQo= | base64 -d`
 
 ![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=vue&hide_border=true&line_height=20&count_private=true)
