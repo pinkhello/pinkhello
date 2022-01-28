@@ -50,12 +50,12 @@ Others
 
 
 🚀 2021-2022 OKR 进度
-| 动作 | 进度 | 目标 | 缺陷 | 其他 |
-| :---- | :---- | :---- | :---- | :---- |
-| 👯 Go服务开发脚手架 | done | [go-starter](https://github.com/pinkhello/go-starter) | ut | - |
-| 💵 Go服务开发脚手架开发一个简单前后端系统 | done | [房产CRM信息系统](http://121.4.242.26) test/123456  | - | BE采用的[go-starter](https://github.com/pinkhello/go-starter), FE 采用的[ant-design-vue-pro](https://pro.antdv.com/) |
+| 动作 | 进度 | 目标 | 其他 |
+| :---- | :---- | :---- | :---- |
+| 👯 Go服务开发脚手架 | done | [go-starter](https://github.com/pinkhello/go-starter) | - |
+| 💵 Go服务开发脚手架开发一个简单前后端系统 | done | [房产CRM信息系统](http://121.4.242.26) test/123456 | BE采用的[go-starter](https://github.com/pinkhello/go-starter), FE 采用的[ant-design-vue-pro](https://pro.antdv.com/) |
 | 🐳 K8S原理 | running | [K8S博客成档](https://pinkhello.github.io/categories/k8s/) | - |  
-| 🚀 RocketMQ 源代码阅读(Java) | running | [RocketMQ博客成档](https://pinkhello.github.io/categories/rocketmq/) | - | - |
-| 🚀 RocketMQ 客户端代码阅读(Compare Go/Java) | running | [RocketMQ博客成档](https://pinkhello.github.io/categories/rocketmq/) | - | - |
-| 😄 MySQL实现原理解析 | prepare | 博客成档 | - | - |
-| 🏫 数据结构与算法之美 | prepare | 博客成档 | - | - |
+| 🚀 RocketMQ 源代码阅读(Java) | running | [RocketMQ博客成档](https://pinkhello.github.io/categories/rocketmq/) | - |
+| 🚀 RocketMQ 客户端代码阅读(Compare Go/Java) | running | [RocketMQ博客成档](https://pinkhello.github.io/categories/rocketmq/) | - |
+| 😄 MySQL实现原理解析 | prepare | 博客成档 | - |
+| 🏫 数据结构与算法之美 | prepare | 博客成档 | - |
