@@ -1,6 +1,6 @@
 <!-- Hi there 👷 I'm pinkhello  ![views](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg) -->
 Hi there 👷 I'm pinkhello 
-- 💻 I'm a BackEnd Developer
+- 💻 I'm a Backend Developer
 - 📖 Mainly ![GoLang](https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=Go) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java) 
 - 🍎 Also Code in ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript) 
 - 📮 How to reach me 
