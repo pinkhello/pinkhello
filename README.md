@@ -1,7 +1,7 @@
 <!-- Hi there 👷 I'm pinkhello  ![views](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg) -->
 Hi there 👷 I'm pinkhello 
 - 💻 I'm a Backend Developer
-- 📖 Mainly ![GoLang](https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=Go) ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java) 
+- 📖 Mainly  ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java) ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go) ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
 - 🍎 Also Code in ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript) 
 - 📮 How to reach me 
   - Email: `echo bGVlMTIzbGVlMTIzQDE2My5jb20K | base64 -d`
