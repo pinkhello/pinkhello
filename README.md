@@ -1,11 +1,11 @@
-<!-- Hi there 👷 I'm pinkhello  ![views](https://views.whatilearened.today/views/github/pinkhello/pinkhello.svg) -->
-Hi there 👷 I'm pinkhello 
-- 💻 I'm a Backend Developer
-- 📖 Mainly  ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java) ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go) 
-- 🍎 Also Code in ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript) 
-- 📮 How to reach me 
-  - Email: `echo bGVlMTIzbGVlMTIzQDE2My5jb20K | base64 -d`
-  - Telegram: `echo QHBpbmtfaGVsbG9fMQo= | base64 -d`
+👷 Hey! 我是[pinkhello](https://pinkhello.cc)![follow](https://img.shields.io/github/followers/pinkhello?label=Follow&style=flat-square)，💻 一名后端程序员。
+
+
+
+- 📖 主要使用的语言 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java) ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go) 
+- 🍎 也使用 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript) 
+- 📮 Email: `echo bGVlMTIzbGVlMTIzQDE2My5jb20K | base64 -d` 
+- ✈️ Telegram: `echo QHBpbmtfaGVsbG9fMQo= | base64 -d`
 
 ![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=highcontrast&hide_border=true&line_height=20&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&theme=radical&layout=compact&hide_border=true&hide=html,vim&count_private=true)
@@ -13,15 +13,15 @@ Hi there 👷 I'm pinkhello
 ⚡ Technologies
 
 Framework   
-![Vue](https://img.shields.io/badge/-Vue.js-000000?style=flat-square&logo=vuedotjs)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
-![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=Spring)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot)
-![Dubbo](https://img.shields.io/badge/-Dubbo-black?style=flat-square&logo=Dubbo)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
-![Echo](https://img.shields.io/badge/-Echo-black?style=flat-square&logo=Echo)
-![Gin](https://img.shields.io/badge/-Gin-black?style=flat-square&logo=Gin)
-![Grpc](https://img.shields.io/badge/-Grpc-black?style=flat-square&logo=Grpc)
+![Vue](https://img.shields.io/badge/-Vue.js-000?style=flat-square&logo=vuedotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs)
+![Spring](https://img.shields.io/badge/-Spring-000?style=flat-square&logo=Spring)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-000?style=flat-square&logo=springboot)
+![Dubbo](https://img.shields.io/badge/-Dubbo-000?style=flat-square&logo=Dubbo)
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=Flask)
+![Echo](https://img.shields.io/badge/-Echo-000?style=flat-square&logo=Echo)
+![Gin](https://img.shields.io/badge/-Gin-000?style=flat-square&logo=Gin)
+![Grpc](https://img.shields.io/badge/-Grpc-000?style=flat-square&logo=Grpc)
 
 Tools   
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
