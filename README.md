@@ -1,5 +1,5 @@
 👷 Hey! 我是[pinkhello](https://pinkhello.cc) ![follow](https://img.shields.io/github/followers/pinkhello?label=Follow&style=flat-square) ，💻 一名后端程序员。
-- 📖 主要使用的语言 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java) ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go) 
+- 📖 主要使用的语言 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go) ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java) 
 - 🍎 也使用 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript) 
 - 📮 Email: `echo bGVlMTIzbGVlMTIzQDE2My5jb20K | base64 -d` 
 - ✈️ Telegram: `echo QHBpbmtfaGVsbG9fMQo= | base64 -d`
