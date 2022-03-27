@@ -4,8 +4,8 @@
 - 📮 Email: `echo bGVlMTIzbGVlMTIzQDE2My5jb20K | base64 -d` 
 - ✈️ Telegram: `echo QHBpbmtfaGVsbG9fMQo= | base64 -d`
 
-![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=highcontrast&hide_border=true&line_height=20&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&theme=radical&layout=compact&hide_border=true&hide=html,vim&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=vue&hide_border=true&line_height=20&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&theme=vue&layout=compact&hide_border=true&hide=html,vim&count_private=true)
 
 ⚡ Technologies
 
