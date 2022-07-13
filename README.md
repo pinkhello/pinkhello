@@ -1,26 +1,60 @@
-👷 Hey! I am [pinkhello](https://pinkhello.cc) ![follow](https://img.shields.io/github/followers/pinkhello?label=Follow&style=flat-square) ，💻 A backend developer with more than five years of working experience.
+## 👋 &nbsp;Hey there! I'm pinkhello
 
-- 📖 Programming Languages: ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go) ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript) 
-- 🏠 Working on ShangHai
-- ✈️ Telegram: `echo QHBpbmtfaGVsbG9fMQo= | base64 -d`
+### 👨🏻‍💻 &nbsp;About Me
 
-![](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=vue&hide_border=true&line_height=20&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&theme=vue&layout=compact&hide_border=true&hide=html,vim&count_private=true)
+&nbsp;&nbsp; I am [pinkhello](https://pinkhello.cc). A backend developer with more than five years of working experience.
+- 🏠  &nbsp;&nbsp;Working on ShangHai
+- 💬   &nbsp;&nbsp;Telegram: `echo QHBpbmtfaGVsbG9fMQo= | base64 -d`
 
-⚡ Technologies
+<img alt="Night Coding" src="./assets/night-coding.gif" align="right"/>
 
-Framework   
+### 🛠 &nbsp;Tech Stack 
 
-![Vue](https://img.shields.io/badge/-Vue.js-fff?style=flat-square&logo=vuedotjs) ![Node.js](https://img.shields.io/badge/-Node.js-fff?style=flat-square&logo=nodedotjs) ![Spring](https://img.shields.io/badge/-Spring-fff?style=flat-square&logo=Spring) ![SpringBoot](https://img.shields.io/badge/-SpringBoot-fff?style=flat-square&logo=springboot) ![Dubbo](https://img.shields.io/badge/-Dubbo-fff?style=flat-square&logo=apache-dubbo) ![Echo](https://img.shields.io/badge/-Echo-fff?style=flat-square&logo=Echo) ![Gin](https://img.shields.io/badge/-Gin-fff?style=flat-square&logo=Gin) ![Grpc](https://img.shields.io/badge/-Grpc-fff?style=flat-square&logo=Grpc)
+![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=shell&logoColor=FFA518)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go) 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openJDK) 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript) 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ%20IDEA&logoColor=007ACC)&nbsp;
 
-MQ   
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)&nbsp; 
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
+![Grpc](https://img.shields.io/badge/-Grpc-05122A?style=flat&logo=Grpc)&nbsp;
+![Dubbo](https://img.shields.io/badge/-Dubbo-05122A?style=flat&logo=apache-dubbo)&nbsp;
+![Echo](https://img.shields.io/badge/-Echo-05122A?style=flat&logo=Echo)&nbsp;
+![Gin](https://img.shields.io/badge/-Gin-05122A?style=flat&logo=Gin)&nbsp;
 
-![Pulsar](https://img.shields.io/badge/-Pulsar-fff?style=flat-square&logo=apache-pulsar) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka) ![RocketMQ](https://img.shields.io/badge/-RocketMQ-fff?style=flat-square&logo=apache-rocketmq) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-fff?style=flat-square&logo=RabbitMQ)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven)&nbsp; 
+![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle)&nbsp; 
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat-square&logo=Redis)&nbsp; 
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql)&nbsp; 
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB)&nbsp; 
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker)&nbsp; 
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux)&nbsp; 
 
-Tools 
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=Nginx)&nbsp;
+![Presto](https://img.shields.io/badge/-Presto-05122A?style=flat-square&logo=Presto)&nbsp; 
+![Pulsar](https://img.shields.io/badge/-Pulsar-05122A?style=flat-square&logo=apache-pulsar)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat-square&logo=RabbitMQ)&nbsp;
+![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat-square&logo=apache-airflow)&nbsp; 
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)&nbsp; 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes)&nbsp; 
+![Rancher](https://img.shields.io/badge/-Rancher-05122A?style=flat-square&logo=Rancher)&nbsp; 
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat-square&logo=Prometheus)&nbsp; 
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat-square&logo=Grafana)&nbsp;
 
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow) ![Presto](https://img.shields.io/badge/-Presto-fff?style=flat-square&logo=Presto) ![Redis](https://img.shields.io/badge/-Redis-fff?style=flat-square&logo=Redis) ![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat-square&logo=mysql) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=Nginx) ![MongoDB](https://img.shields.io/badge/-MongoDB-fff?style=flat-square&logo=MongoDB) ![Prometheus](https://img.shields.io/badge/-Prometheus-fff?style=flat-square&logo=Prometheus) ![Grafana](https://img.shields.io/badge/-Grafana-fff?style=flat-square&logo=Grafana)
+<!--![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat-square&logo=apache-kafka)&nbsp;-->
+<!--![Vue](https://img.shields.io/badge/-Vue.js-fff?style=flat-square&logo=vuedotjs)&nbsp;-->
+<!--![RocketMQ](https://img.shields.io/badge/-RocketMQ-05122A?style=flat-square&logo=apache-rocketmq)&nbsp;-->
+<!--![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat-square&logo=githubactions)&nbsp;-->
 
-Others  
+### ⚙️ &nbsp;GitHub Analytics
 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-fff?style=flat-square&logo=Kubernetes) ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat-square&logo=Docker) ![Rancher](https://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=Rancher) ![Linux](https://img.shields.io/badge/-Linux-fff?style=flat-square&logo=Linux) ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven) ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle) ![Centos](https://img.shields.io/badge/-Centos-262577?style=flat-square&logo=Centos) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-fff?style=flat-square&logo=githubactions)
+<a href="https://github.com/pinkhello">
+<img height="" src="https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&line_height=20" />
+<img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&theme=algolia&layout=compact&langs_count=6&hide=html,vim&count_private=true" />
+</a>
+
+
