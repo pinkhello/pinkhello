@@ -2,11 +2,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-&nbsp;&nbsp; I am [pinkhello](https://pinkhello.cc). A backend developer with more than five years of working experience.
-- 🏠  &nbsp;&nbsp;Working on ShangHai
-- 💬   &nbsp;&nbsp;Telegram: `echo QHBpbmtfaGVsbG9fMQo= | base64 -d`
+<img alt="Night Coding"  height="140em" src="./assets/night-coding.gif" align="right"/>
 
-<img alt="Night Coding" src="./assets/night-coding.gif" align="right"/>
+&nbsp;&nbsp; I am [pinkhello](https://pinkhello.cc). A backend developer with more than five years of working experience.
+- 🏠 &nbsp;&nbsp;I'm working on ShangHai
+- 💬 &nbsp;&nbsp;Telegram: `echo QHBpbmtfaGVsbG9fMQo= | base64 -d`
+- ✉️  &nbsp;&nbsp;You can shoot me an email at `echo bGVlMTIzbGVlMTIzQDE2My5jb20K | base64 -d`
 
 ### 🛠 &nbsp;Tech Stack 
 
