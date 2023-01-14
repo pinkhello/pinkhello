@@ -61,7 +61,8 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/pinkhello/repos?time_range=one_year&group=other&loc_metric=changed&theme=synthwaves)](https://api.githubtrends.io/user/svg/pinkhello/repos?time_range=one_year&group=other&loc_metric=changed&theme=synthwaves)
 
 ### 🎉 &nbsp;GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=pinkhello)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pinkhello&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ### 🔥 &nbsp;GitHub Recent Activity
 <!--START_SECTION:activity-->
