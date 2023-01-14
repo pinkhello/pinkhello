@@ -58,6 +58,8 @@
 <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&theme=algolia&layout=compact&langs_count=6&hide=html,vim&count_private=true" />
 </a>
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/pinkhello/repos?time_range=one_year&group=other&loc_metric=changed&theme=synthwaves)](https://api.githubtrends.io/user/svg/pinkhello/repos?time_range=one_year&group=other&loc_metric=changed&theme=synthwaves)
+
 ### 🔥 Github Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#194](https://github.com/alibaba/fastjson2/issues/194) in [alibaba/fastjson2](https://github.com/alibaba/fastjson2)
