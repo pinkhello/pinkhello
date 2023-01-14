@@ -60,7 +60,10 @@
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/pinkhello/repos?time_range=one_year&group=other&loc_metric=changed&theme=synthwaves)](https://api.githubtrends.io/user/svg/pinkhello/repos?time_range=one_year&group=other&loc_metric=changed&theme=synthwaves)
 
-### 🔥 Github Recent Activity
+### 🎉 &nbsp;GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=pinkhello)](https://git.io/streak-stats)
+
+### 🔥 &nbsp;GitHub Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#194](https://github.com/alibaba/fastjson2/issues/194) in [alibaba/fastjson2](https://github.com/alibaba/fastjson2)
 2. 🗣 Commented on [#194](https://github.com/alibaba/fastjson2/issues/194) in [alibaba/fastjson2](https://github.com/alibaba/fastjson2)
