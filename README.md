@@ -85,10 +85,4 @@
 - 🎓 [Systemd服务笔记](https://pinkhello.cc/posts/56-systemd%E6%9C%8D%E5%8A%A1%E7%AC%94%E8%AE%B0/) 
 
 - 🧠 [JVM内存结构JMM](https://pinkhello.cc/posts/55-jvm%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84jmm/) 
-
-- 🦣 [JVM类加载机制](https://pinkhello.cc/posts/52-jvm%E7%B1%BB%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6/) 
-
-- 🧰 [Java内存泄漏的方式](https://pinkhello.cc/posts/53-java%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E7%9A%84%E6%96%B9%E5%BC%8F/) 
-
-- 🎡 [rand库锁竞争优化](https://pinkhello.cc/posts/50-go-rand/) 
 <!-- BLOG-POST-LIST:END -->
