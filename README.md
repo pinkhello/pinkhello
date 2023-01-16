@@ -70,6 +70,6 @@
 4. 🗣 Commented on [#257](https://github.com/WeiYe-Jing/datax-web/issues/257) in [WeiYe-Jing/datax-web](https://github.com/WeiYe-Jing/datax-web)
 <!--END_SECTION:activity-->
 
-### 🚀 &nbsp;Blog Posts
+### 🚀 &nbsp;Blog Post
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
