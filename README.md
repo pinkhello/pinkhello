@@ -55,7 +55,7 @@
 <img height="" src="https://api.githubtrends.io/user/svg/pinkhello/repos?time_range=one_year&group=other&loc_metric=changed&theme=synthwaves"/>
 </a>
 
-![](https://raw.githubusercontent.com/pinkhello/pinkhello/main/assets/github-contribution-grid-snake.svg)
+[![Snake](https://raw.githubusercontent.com/pinkhello/pinkhello/main/assets/github-contribution-grid-snake.svg)](#)
 
 ### 🎉 &nbsp;GitHub Streak
 
