@@ -47,15 +47,16 @@
 [![AWS EKS](https://img.shields.io/badge/Amazon_EKS-05122A?style=flat-square&logo=Amazon-EKS)](#)
 [![Aliyun](https://img.shields.io/badge/Aliyun-05122A?style=flat&logo=Alibaba-cloud)](#)
 
-### ⚙️ &nbsp;GitHub Analytics
+### 🏆️ &nbsp;GitHub Analytics
+
+[![Snake](https://raw.githubusercontent.com/pinkhello/pinkhello/main/assets/github-contribution-grid-snake.svg)](#)
 
 <a href="https://github.com/pinkhello">
 <img height="" src="https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&line_height=20" />
 <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&theme=algolia&layout=compact&langs_count=6&hide=html,vim&count_private=true" />
-<img height="" src="https://api.githubtrends.io/user/svg/pinkhello/repos?time_range=one_year&group=other&loc_metric=changed&theme=synthwaves"/>
 </a>
 
-[![Snake](https://raw.githubusercontent.com/pinkhello/pinkhello/main/assets/github-contribution-grid-snake.svg)](#)
+[//]: # (https://api.githubtrends.io/user/svg/pinkhello/repos?time_range=one_year&theme=dark)
 
 ### 🎉 &nbsp;GitHub Streak
 
@@ -68,3 +69,7 @@
 3. ❌ Closed PR [#11438](https://github.com/apache/dolphinscheduler/pull/11438) in [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler)
 4. 🗣 Commented on [#257](https://github.com/WeiYe-Jing/datax-web/issues/257) in [WeiYe-Jing/datax-web](https://github.com/WeiYe-Jing/datax-web)
 <!--END_SECTION:activity-->
+
+### 🚀 &nbsp;Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
