@@ -72,4 +72,23 @@
 
 ### 🚀 &nbsp;Blog Post
 <!-- BLOG-POST-LIST:START -->
+- 🫣 [分布式系统下的日志收集分析方案](https://pinkhello.cc/posts/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E4%B8%8B%E7%9A%84%E6%97%A5%E5%BF%97%E6%94%B6%E9%9B%86%E5%88%86%E6%9E%90%E6%96%B9%E6%A1%88/) 
+
+- 💡 [重学Redis](https://pinkhello.cc/posts/60-redis/) 
+
+- 🏊 [关于团队的思考](https://pinkhello.cc/posts/59-%E5%85%B3%E4%BA%8E%E5%9B%A2%E9%98%9F%E7%9A%84%E6%80%9D%E8%80%83/) 
+
+- 🔥 [记一次Airflow任务丢失问题](https://pinkhello.cc/posts/57-%E8%AE%B0%E4%B8%80%E6%AC%A1airflow%E4%BB%BB%E5%8A%A1%E4%B8%A2%E5%A4%B1%E9%97%AE%E9%A2%98/) 
+
+- 🤓 [Jobs](https://pinkhello.cc/jobs/) 
+
+- 🎓 [Systemd服务笔记](https://pinkhello.cc/posts/56-systemd%E6%9C%8D%E5%8A%A1%E7%AC%94%E8%AE%B0/) 
+
+- 🧠 [JVM内存结构JMM](https://pinkhello.cc/posts/55-jvm%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84jmm/) 
+
+- 🦣 [JVM类加载机制](https://pinkhello.cc/posts/52-jvm%E7%B1%BB%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6/) 
+
+- 🧰 [Java内存泄漏的方式](https://pinkhello.cc/posts/53-java%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E7%9A%84%E6%96%B9%E5%BC%8F/) 
+
+- 🎡 [rand库锁竞争优化](https://pinkhello.cc/posts/50-go-rand/) 
 <!-- BLOG-POST-LIST:END -->
