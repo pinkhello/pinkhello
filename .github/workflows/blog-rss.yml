@@ -15,7 +15,7 @@ jobs:
       - name: Pull in pinkhello posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: 10
+          max_post_count: 7
           committer_username: "pinkhello"
           committer_email: "lee123lee123@163.com"
           feed_list: "https://pinkhello.cc/index.xml"
