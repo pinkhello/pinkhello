@@ -82,7 +82,7 @@
 
 - 🤓 [关于团队的思考](https://pinkhello.cc/posts/59-%E5%85%B3%E4%BA%8E%E5%9B%A2%E9%98%9F%E7%9A%84%E6%80%9D%E8%80%83/) 
 
-- 🎓 [记一次Airflow任务丢失问题](https://pinkhello.cc/posts/57-%E8%AE%B0%E4%B8%80%E6%AC%A1airflow%E4%BB%BB%E5%8A%A1%E4%B8%A2%E5%A4%B1%E9%97%AE%E9%A2%98/) 
+- 🎓 [我与再惠的4年半](https://pinkhello.cc/posts/z-draft-zaihui_his/) 
 
-- 🧠 [Jobs](https://pinkhello.cc/jobs/) 
+- 🧠 [记一次Airflow任务丢失问题](https://pinkhello.cc/posts/57-%E8%AE%B0%E4%B8%80%E6%AC%A1airflow%E4%BB%BB%E5%8A%A1%E4%B8%A2%E5%A4%B1%E9%97%AE%E9%A2%98/) 
 <!-- BLOG-POST-LIST:END -->
