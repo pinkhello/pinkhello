@@ -4,9 +4,11 @@
 
 <img alt="Night Coding"  height="140em" src="./assets/night-coding.gif" align="right"/>
 
-&nbsp;&nbsp; I am [pinkhello](https://pinkhello.cc). A backend developer with more than five years of working experience.
-- 🏠 &nbsp;&nbsp;I'm working on ShangHai
-- ✉️  &nbsp;&nbsp;You can shoot me an email at `echo bGVlMTIzbGVlMTIzQDE2My5jb20K | base64 -d`
+&nbsp;&nbsp;Hi, 我是 [「pinkhello」]((https://pinkhello.cc))![Follow](https://img.shields.io/github/followers/pinkhello?label=Follow&style=flat-square)， 🚹，驻魔多年，想法很多、精力有限 活跃在 [github](https://github.com/pinkhello)
+
+- 「积跬步· 至千里」是我的 Slogan, 希望自己能积少成多。
+- 全栈、从业超过10年，做过BE、FE、基础设施建设、对内、ToB、ToC等等平台化应用与工具，目前在研究的量化相关的知识、同时为"引爆农业"添砖加瓦。
+- ✉️ 国际化通用加密方式 `echo bGVlMTIzbGVlMTIzQDE2My5jb20K | base64 -d`
 
 ### 🛠 &nbsp;Tech Stack 
 
