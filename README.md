@@ -10,12 +10,14 @@
 - 全栈、从业超过10年，做过BE、FE、基础设施建设、对内、ToB、ToC等等平台化应用与工具，目前在研究的量化相关的知识、同时为"引爆农业"添砖加瓦。
 - ✉️ 国际化通用加密方式 `echo bGVlMTIzbGVlMTIzQDE2My5jb20K | base64 -d`
 
+
 ### 🛠 &nbsp;Tech Stack 
 
 [![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=shell&logoColor=FFA518)](#)
 [![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=Go)](#)
 [![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openJDK&logoColor=orange)](#)
 [![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=Python)](#)
+[![Android](https://img.shields.io/badge/Android-05122A?style=flat&logo=android)](#)
 
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-05122A?style=flat&logo=springboot)](#)
 [![Spring](https://img.shields.io/badge/Spring%20Cloud-05122A?style=flat&logo=Spring)](#)
@@ -27,8 +29,9 @@
 [![Vue](https://img.shields.io/badge/Vue.js-05122A?style=flat-square&logo=vuedotjs)](#)
 
 [![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)](#)
-[![Visual Studio Code](https://img.shields.io/badge/vscode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](#)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ%20IDEA&logoColor=007ACC)](#)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-05122A?style=flat&logo=androidstudio&logoColor=007ACC)](#)
 [![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven)](#)
 [![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle)](#)
 
