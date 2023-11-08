@@ -69,8 +69,8 @@
 
 ### 🔥 &nbsp;GitHub Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/pinkhello/gopush/pull/9) in [pinkhello/gopush](https://github.com/pinkhello/gopush)
-2. 💪 Opened PR [#2](https://github.com/bayer-di/di-nano/pull/2) in [bayer-di/di-nano](https://github.com/bayer-di/di-nano)
+1. 🔒 Closed issue [#4](https://github.com/pinkhello/gopush/issues/4) in [pinkhello/gopush](https://github.com/pinkhello/gopush)
+2. 🎉 Merged PR [#9](https://github.com/pinkhello/gopush/pull/9) in [pinkhello/gopush](https://github.com/pinkhello/gopush)
 3. 🎉 Merged PR [#1](https://github.com/bayer-di/di-nano/pull/1) in [bayer-di/di-nano](https://github.com/bayer-di/di-nano)
 4. 💪 Opened PR [#1](https://github.com/bayer-di/di-nano/pull/1) in [bayer-di/di-nano](https://github.com/bayer-di/di-nano)
 <!--END_SECTION:activity-->
