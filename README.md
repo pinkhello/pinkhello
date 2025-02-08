@@ -56,7 +56,3 @@ Hi, 我是 [「pinkhello」]((https://pinkhello.cc))![Follow](https://img.shield
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pinkhello&theme=dark&hide_border=true)](#)
 
-### 🐳 &nbsp;GitHub个人开源项目
-
-[![GoPush](https://github-readme-stats.vercel.app/api/pin/?username=pinkhello&theme=vue&repo=gopush)](https://github.com/pinkhello/gopush)
-[![go-starter](https://github-readme-stats.vercel.app/api/pin/?username=pinkhello&theme=vue&repo=go-starter)](https://github.com/pinkhello/go-starter)
